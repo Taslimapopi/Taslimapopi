@@ -1,8 +1,6 @@
-<div height="300px">
-  <p align="center">
-  <img src="https://i.ibb.co.com/Y4Fs5pHL/37190633-8469936.jpg" alt="Dear Banner" height="300px" />
+<p align="center">
+    <img src="https://i.ibb.co.com/Y4qvVNz4/glasses-lie-laptop-reflecting-light-from-screen-dark-169016-52267.jpg" alt="Dear Banner" width="100%" />
 </p>
-</div>
 
 
 
