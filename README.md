@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/LD8zHYgt/Gold-and-Navy-Modern-Certificate-Banner-Landscape.png" alt="Dear Banner" width="100%" height="300px" />
+  <img src="https://i.ibb.co.com/bfjpZhy/Gold-and-Navy-Modern-Certificate-Banner-Landscape.gif" alt="Dear Banner" width="100%" height="300px" />
 </p>
 
 
