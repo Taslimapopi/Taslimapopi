@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi, I'm Taslima Popy 👋</h1>
 <h3 align="center">MERN Stack Developer | Frontend & Backend Developer</h3>
-<p align="center">I'm a passionate web developer focused on building modern web applications using Next.js.
+<p align="center">I'm a passionate web developer focused on building modern web applications using React and Next.js.
 Currently learning full-stack development and improving my problem-solving skills.</p>
 
 ---
