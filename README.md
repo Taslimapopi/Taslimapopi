@@ -7,20 +7,18 @@
 
 <h1 align="center">Hi, I'm Taslima Popy 👋</h1>
 <h3 align="center">MERN Stack Developer | Frontend & Backend Developer</h3>
+<p align="center">I'm a passionate web developer focused on building modern web applications using Next.js.
+Currently learning full-stack development and improving my problem-solving skills.</p>
 
 ---
 
-## 👩‍💻 About Me
-I am a passionate MERN Stack Developer from Bangladesh, dedicated to building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world solutions using MongoDB, Express.js, React, Node.js, and other modern technologies.
-
-Currently, I am expanding my expertise in Next.js, improving API performance, and learning production-grade backend architecture to build faster, more secure, and highly maintainable applications.
-
----
 ## 🔥 Current Activities
-- 🌱 Exploring **Next.js,Go & Server Components**
-- 🚀 Working on a **Tourism Web App**
-- 📚 Learning **System Design Basics**
-- 🛠 Improving MongoDB query optimization
+
+- 🔭 Working on a Next.js project (PizzaHub)
+- 🌱 Learning backend concepts & authentication
+- 🧩 Improving JavaScript & React fundamentals
+- 🛠️ Writing cleaner code and better README files
+
 
 ---
 
