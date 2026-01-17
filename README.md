@@ -6,17 +6,8 @@
 
 
 <h1 align="center">Hi, I'm Taslima Popy 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code
-  &size=22
-  &pause=1000
-  &color=38BDF8
-  &center=true
-  &vCenter=true
-  &width=600
-  &lines=MERN+Stack+Developer;Frontend+%26+Backend+Developer" />
-</p>
+<h3 align="center">MERN Stack Developer | Frontend & Backend Developer</h3>
+
 
 <p align="center">I'm a passionate web developer focused on building modern web applications using React and Next.js.
 Currently learning full-stack development and improving my problem-solving skills.</p>
