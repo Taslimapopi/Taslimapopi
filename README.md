@@ -16,7 +16,8 @@ Currently learning full-stack development and improving my problem-solving skill
 
 ## 🔥 Current Activities
 
-- 🔭 Working on a Next.js team project (stockify)
+-  🚀 Currently Working On a Next.js project
+  🛒 Stockify (Team Project)
 - 🌱 Learning backend concepts & authentication
 - 🧩 Improving JavaScript, React, & Next.js fundamentals
 - 🛠️ Writing cleaner code and better README files
