@@ -39,6 +39,7 @@ Currently learning full-stack development and improving my problem-solving skill
     <td><strong>Languages</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=javascript" />
+      <img src="https://skillicons.dev/icons?i=typescript" />
       <img src="https://skillicons.dev/icons?i=go" />
     </td>
   </tr>
