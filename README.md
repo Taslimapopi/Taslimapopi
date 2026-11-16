@@ -1,4 +1,6 @@
-<a href="https://ibb.co.com/kgX0WjLy"><img src="https://i.ibb.co.com/RpcPVfXS/Github-banner-image.jpg" alt="Github banner image" border="0"></a>
+<p align="center">
+  <img src="https://i.ibb.co.com/BV1yL5tv/Gold-and-Navy-Modern-Certificate-Banner-Landscape.jpg" alt="Dear Banner" width="100%" height="300px" />
+</p>
 
 
 
